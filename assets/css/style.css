@@ -495,9 +495,12 @@
 /* End Mobile Menu Area */
 /* Start Slider Area
 ==================================================*/
-.slider-bg-1 {background: url(../img/slide-shipping.png);}
+.slider-bg-1 {background: url(../img/slide-tlgressano1.png);}
+.slider-bg-2 {background: url(../img/slide-cargo-minerals.png);}
+.slider-bg-3 {background: url(../img/slide-tlgressano2.png);}
+/* .slider-bg-1 {background: url(../img/slide-shipping.png);}
 .slider-bg-2 {background: url(../img/teste-slide.png);}
-.slider-bg-3 {background: url(../img/teste-slide2.png);}
+.slider-bg-3 {background: url(../img/teste-slide2.png);} */
 
 .single-slider {
     height: 600px;
@@ -565,9 +568,9 @@
 /* End Slogan*/
 /* Start Iconbox Area
 ==================================================*/
-.icon-box-img-1 {background-image: url(../img/logistica_oqueepraqueserve_unisuam.jpeg);}
-.icon-box-img-2 {background-image: url(../img/logistica-interna.jpg);}
-.icon-box-img-3 {background-image: url(../img/unnamed.jpg);}
+.icon-box-img-1 {background-image: url(../img/tlgressano5.png);}
+.icon-box-img-2 {background-image: url(../img/tlgressano7.png);}
+.icon-box-img-3 {background-image: url(../img/cargo-minerals-aspect-ratio-840-460-1.png);}
 
 .single-icon-box {
     height: 280px;
@@ -686,13 +689,13 @@
 /* End Bemax Area */
 /* Start Latest Project Area
 ==================================================*/
-.project-bg-1 {background-image: url(../img/unnamed.jpg);}
-.project-bg-2 {background-image: url(../img/conceito-de-logistica-870x510.jpg);}
-.project-bg-3 {background-image: url(../img/5c6f4a62bde70f7e933d06a9.jpeg);}
-.project-bg-4 {background-image: url(../img/FPT_Kaapstad.jpg);}
-.project-bg-5 {background-image: url(../img/shipping.jpg);}
-.project-bg-6 {background-image: url(../img/logistica_oqueepraqueserve_unisuam.jpeg);}
-.project-bg-7 {background-image: url(../img/full_container_ship-1.jpg);}
+.project-bg-1 {background-image: url(../img/cargo-minerals-aspect-ratio-840-460-1.png);}
+.project-bg-2 {background-image: url(../img/tlgressano6.png);}
+.project-bg-3 {background-image: url(../img/tlgressano7.png);}
+.project-bg-4 {background-image: url(../img/tlgressano3.png);}
+.project-bg-5 {background-image: url(../img/tlgressano4.png);}
+.project-bg-6 {background-image: url(../img/tlgressano70.png);}
+.project-bg-7 {background-image: url(../img/tlgressano2.png);}
 
 .latest-project-area .section-title h4 {
     color: #fff;
@@ -787,7 +790,7 @@
 /* End Latest Project Area */
 /* Start Choose Us Area
 ==================================================*/
-.video-img-thumbnail {background-image: url(../img/transporte-de-carga.jpg);}
+.video-img-thumbnail {background-image: url(../img/tlgressano1.png);}
 
 .video-img-thumbnail {
     height: 320px;
